@@ -8,7 +8,7 @@ A real-time traffic sign recognition using HOG and SVM.
 
 Source code and datasets are available for downloading, and the datasets are about 5.6GB.
 
-Dataset 1: 
+Dataset 1: https://drive.google.com/file/d/12VY0WthkckQQegO1BYs9ONU9ffePnrGj/view?usp=sharing
 
 Dataset 2: https://drive.google.com/open?id=1y-DVYZhlpw57TMzij5tAgWoHZCSfuZFS
 
