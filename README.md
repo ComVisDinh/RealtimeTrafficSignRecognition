@@ -1,6 +1,6 @@
 # Real-time Traffic Sign Recognition
 
-A real-time traffic sign recognition in a hierarchy approach using HOG and SVM.
+A real-time traffic sign recognition in a hierarchy approach using HOG and SVM. It performs accurately and robustly for real driving images, and it can reduce false alarms significantly, comparing to the orginal HOC+SVM method.
 
 *) Dependencies
 1) OpenCV
