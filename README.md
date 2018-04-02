@@ -13,3 +13,5 @@ Dataset 1: https://drive.google.com/file/d/12VY0WthkckQQegO1BYs9ONU9ffePnrGj/vie
 Dataset 2: https://drive.google.com/open?id=1y-DVYZhlpw57TMzij5tAgWoHZCSfuZFS
 
 Dataset 3: https://drive.google.com/open?id=17nGDAQuZOQmIx3XTh0acdH9lKX2JeOL8
+
+Ground truth: https://drive.google.com/file/d/1OtoijQjr0xDj6XnL8bV_vUg4FuqVFf9F/view?usp=sharing
