@@ -1,6 +1,6 @@
 # Real-time Traffic Sign Recognition
 
-A real-time traffic sign recognition using HOG and SVM.
+A real-time traffic sign recognition in a hierarchy approach using HOG and SVM.
 
 *) Dependencies
 1) OpenCV
