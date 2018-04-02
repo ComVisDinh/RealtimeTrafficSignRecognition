@@ -21,3 +21,18 @@ Ground truth: https://drive.google.com/file/d/1OtoijQjr0xDj6XnL8bV_vUg4FuqVFf9F/
 
 
 ![figure2](https://user-images.githubusercontent.com/29675793/38183594-879314fc-367c-11e8-9784-21a96a265b4d.png)
+
+
+![000102](https://user-images.githubusercontent.com/29675793/38183635-f9d42150-367c-11e8-9d7e-9ce2b7712886.jpg)
+
+
+![000518](https://user-images.githubusercontent.com/29675793/38183636-fa239a64-367c-11e8-9b55-2d32ba735b29.jpg)
+
+
+![637](https://user-images.githubusercontent.com/29675793/38183637-fa52516a-367c-11e8-9615-3b576a2c76c4.jpg)
+
+
+![000678](https://user-images.githubusercontent.com/29675793/38183638-fa7ed690-367c-11e8-8079-32d1031951dd.jpg)
+
+
+![001427](https://user-images.githubusercontent.com/29675793/38183639-faa96d4c-367c-11e8-93f6-234e85ab52da.jpg)
